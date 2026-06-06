@@ -8,7 +8,6 @@ To write a Python program to perform addition and division operations using a cl
 - `choice 2` → Perform division  
 - `choice 0` → Exit  
 - For other choices, print 'Invalid choice'
-- 
 ---
 ### ALGORITHM
 1. Begin the program.  
@@ -50,7 +49,6 @@ while choice!=0:
         print("Exiting!")
 print()
 ```
-
 ### OUTPUT
 <img width="585" height="374" alt="image" src="https://github.com/user-attachments/assets/33404983-578e-4ca2-ac3c-35ec7234454a" />
 
